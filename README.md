@@ -1,6 +1,5 @@
 # Dataverse Connection Viewer PCF
 
-[日本語はこちら (in Japanese)](./README.ja.md)
 
 This PCF control provides a visual representation of the `connection` data stored in Dataerse and the related data of `1:N`, `N:1` or `N:N`.
 
